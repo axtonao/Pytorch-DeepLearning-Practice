@@ -21,20 +21,22 @@
 **环境准备**：确保你已经安装了Python和Pytorch框架。推荐使用Anaconda环境来管理依赖包。
 
 ## 贡献指南
+- 本人是菜鸡，本仓库仅供参考。
 - 如果你发现代码中有错误或有更好的实现方式，欢迎提交Pull Request。
-- 如果你对课程内容有补充或建议，可以在Issues中提出讨论。
+- 如果你对笔记内容有补充或建议，可以在Issues中提出讨论。
+
 
 ## 作者信息
 - **仓库作者**：[Alden](https://github.com/huliawsl)
- - Site: <https://huliawsl.top/>
- - Email：<huliawsl@foxmail.com>
+  - Site: <https://huliawsl.top/>
+  - Email：<huliawsl@foxmail.com>
 - **课程作者**：[刘二大人](https://github.com/liuii)
- - Site: <https://liuii.github.io/>
- - BiliBili: <https://space.bilibili.com/21241234>
+  - Site: <https://liuii.github.io/>
+  - BiliBili: <https://space.bilibili.com/21241234>
 
 ## 致谢
 感谢刘二大人提供的优质课程内容，为本仓库的创建提供了基础。
 
 如果你觉得本仓库对你有帮助，请不要吝啬你的star，你的支持是我持续更新的动力！
 
-<img  src="https://huliawsl.top/img/huli.c0a5657c.png" width="128" />
+<img src="https://huliawsl.top/img/huli.c0a5657c.png" width="128"  alt="huli"/>
