@@ -2,7 +2,9 @@
 
 ## 项目简介
 本仓库为个人学习记录，记录了B站[刘二大人](https://space.bilibili.com/21241234)的Pytorch深度学习实践课程的笔记和代码。
+
 您可以[点击此处](https://www.bilibili.com/video/BV1Y7411d7Ys/)观看刘二大人的课程视频
+
 **正在更新...**
 
 ## 课程内容
