@@ -22,16 +22,11 @@
 
 
 ## 作者信息
-- **仓库作者**：[Alden](https://github.com/huliawsl)
-  - Site: <https://huliawsl.top/>
-  - Email：<huliawsl@foxmail.com>
 - **课程作者**：[刘二大人](https://github.com/liuii)
   - Site: <https://liuii.github.io/>
   - BiliBili: <https://space.bilibili.com/21241234>
 
-## 致谢
-感谢刘二大人提供的优质课程内容，为本仓库的创建提供了基础。
 
-如果你觉得本仓库对你有帮助，请不要吝啬你的star，你的支持是我持续更新的动力！
 
-<img src="https://huliawsl.top/img/huli.c0a5657c.png" width="128"  alt="huli"/>
+如果你觉得本仓库对你有帮助，请不要吝啬你的star
+
